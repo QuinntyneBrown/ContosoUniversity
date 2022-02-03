@@ -9,6 +9,7 @@ namespace ContosoUniversity.Infrastructure.Data
     public class ContosoUniversityDbContext: DbContext, IContosoUniversityDbContext
     {
         public DbSet<Student> Students { get; private set; }
+        public DbSet<Course> Courses { get; private set; }
         public ContosoUniversityDbContext(DbContextOptions options)
             :base(options) { }
 

@@ -26,6 +26,7 @@
   "port": 5000,
   "sslPort": 5001,
   "resources": [
-    "Student"
+    "Student",
+    "Course"
   ]
 }
