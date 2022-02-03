@@ -1,0 +1,31 @@
+{
+  "isRoot": true,
+  "isMicroserviceArchitecture": false,
+  "projects": [],
+  "rootDirectory": "C:\\projects\\ContosoUniversity",
+  "solutionName": "ContosoUniversity",
+  "solutionFileName": "ContosoUniversity.sln",
+  "apiFullPath": "C:\\projects\\ContosoUniversity\\src\\ContosoUniversity.Api\\ContosoUniversity.Api.csproj",
+  "rootNamespace": "ContosoUniversity",
+  "domainNamespace": "ContosoUniversity.SharedKernal",
+  "applicationNamespace": "ContosoUniversity.Core",
+  "infrastructureNamespace": "ContosoUniversity.Infrastructure",
+  "apiNamespace": "ContosoUniversity.Api",
+  "domainDirectory": "C:\\projects\\ContosoUniversity\\src\\ContosoUniversity.SharedKernal",
+  "applicationDirectory": "C:\\projects\\ContosoUniversity\\src\\ContosoUniversity.Core",
+  "infrastructureDirectory": "C:\\projects\\ContosoUniversity\\src\\ContosoUniversity.Infrastructure",
+  "apiDirectory": "C:\\projects\\ContosoUniversity\\src\\ContosoUniversity.Api",
+  "unitTestsDirectory": "C:\\projects\\ContosoUniversity\\tests\\ContosoUniversity.UnitTests",
+  "testingDirectory": "C:\\projects\\ContosoUniversity\\tests\\ContosoUniversity.Testing",
+  "appDirectories": [],
+  "buildingBlocksCoreNamespace": "BuildingBlocks.Core",
+  "buildingBlocksEventStoreNamespace": "BuildingBlocks.EventStore",
+  "sourceFolder": "src",
+  "testFolder": "tests",
+  "dbContextName": "ContosoUniversityDbContext",
+  "port": 5000,
+  "sslPort": 5001,
+  "resources": [
+    "Student"
+  ]
+}
